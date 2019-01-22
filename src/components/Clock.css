@@ -1,0 +1,22 @@
+.wrapper{
+	width: 100wh;
+	height: 100vh;
+	display: flex;
+	justify-content: space-around;
+	text-align: center;
+	align-items: center;
+	background: #fdfdfd;
+}
+.clock{
+	padding:10px;
+	border-radius:4px;
+	box-shadow:0 10px 40px -10px rgba(0,64,128,.2);
+	margin:10px;
+	color:#EAEAEA;
+	background: #fff;
+}
+.contianer{
+	padding: 10px;
+	background-color:#0c005A;
+	border-radius: 8px;
+}
